@@ -1,0 +1,23 @@
+# Ignore IDE dependent files
+\.idea
+
+# Ignore .DS_Store and Bot Token
+\.DS_Store
+CasaGramaBot/TEST_TOKEN.txt
+CasaGramaBot/TOKEN.txt
+CasaGramaBot/casagrama.log.txt
+
+# Ignore auxiliary files of documentation
+AIOT Final Report/aiot-final-report\.aux
+AIOT Final Report/aiot-final-report\.log
+AIOT Final Report/aiot-final-report\.out
+AIOT Final Report/aiot-final-report\.pdf
+AIOT Final Report/aiot-final-report\.synctex\.gz
+AIOT Final Report/aiot-final-report\.toc
+
+
+CasaGramaBot/__pycache__/
+
+CasaGramaBot/COSMOSDB_READKEY\.txt
+
+CasaGramaBot/COSMOSDB_URI\.txt
