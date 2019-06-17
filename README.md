@@ -1,6 +1,6 @@
 # AIOT - Final Project
 
-## Credits
+## Credits
 
 * Raphael Heer [(RaphiHeer)](https://github.com/RaphiHeer)
 * Maurin Thalmann [(madotha)](https://github.com/madotha)
