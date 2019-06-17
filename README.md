@@ -1,5 +1,10 @@
 # AIOT - Final Project
 
+## Credits
+
+* Raphael Heer [(RaphiHeer)](https://github.com/RaphiHeer)
+* Maurin Thalmann [(madotha)](https://github.com/madotha)
+
 ## CasaGrama - The Telegram Smart Home Bot
 
 This Repository contains all the files of the Final Project in the AIOT Module.
@@ -48,4 +53,3 @@ If you want to use it on Mac/Linux, consider [these](https://github.com/Azure/az
 # Documentation
 
 To access the Documentation, access the .pdf File in the `AIOT Final Report` folder.
-Rebuilds are added with every commit which concerns an edit of the report.
