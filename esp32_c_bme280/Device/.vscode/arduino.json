@@ -1,0 +1,8 @@
+{
+    "board": "esp32:esp32:esp32",
+    "sketch": "device.ino",
+    "configuration": "PSRAM=disabled,PartitionScheme=default,FlashMode=qio,FlashFreq=80,FlashSize=4M,UploadSpeed=921600,DebugLevel=none",
+    "output": "./.build",
+    "port": "COM8",
+    "programmer": "AVRISP mkII"
+}
